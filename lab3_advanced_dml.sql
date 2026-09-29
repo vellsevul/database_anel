@@ -8,8 +8,7 @@
 -- ============================================================================
 
 -- 1. Create database and tables
--- ПРИМЕЧАНИЕ: Создание базы данных выполняйте отдельно перед запуском остальных скриптов.
--- CREATE DATABASE "advanced_Lab";
+CREATE DATABASE "advanced_Lab";
 -- \c "advanced_Lab"
 
 DROP TABLE IF EXISTS employee_archive CASCADE;
