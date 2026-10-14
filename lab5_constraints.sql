@@ -1,5 +1,5 @@
--- Name: Your Name
--- Student ID: 00000000
+-- Name: Anel
+-- Student ID: 25B031360
 -- Lab 5: Database Constraints (PostgreSQL)
 
 -- =====================================================
